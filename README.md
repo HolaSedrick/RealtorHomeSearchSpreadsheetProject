@@ -2,7 +2,7 @@
 <h2>Microsoft Excel - Realtor Home Search Spreadsheet Project</h2>
 
 <h2>Description</h2>
-A fully automated and comprehensively designed Microsoft Excel spreadsheet for a fictional realtor office called Forsgren Realty. This spreadsheet is meant to help make clients' home decision-making process easier.
+A fully automated, comprehensively designed, and properly formated for print Microsoft Excel spreadsheet for a fictional realtor office called Forsgren Realty. This spreadsheet is meant to help make clients' home decision-making process easier.
 <br />
 
 
