@@ -6,10 +6,9 @@ A fully automated and comprehensively designed Microsoft Excel spreadsheet for a
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Programs Used</h2>
 
-- <b>Python</b>
-- <b>Visual Studio Code</b>
+- <b>Microsoft Excel</b>
 
 
 <h2>Environments Used </h2>
