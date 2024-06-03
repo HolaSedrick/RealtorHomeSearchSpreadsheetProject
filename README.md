@@ -15,11 +15,13 @@ A fully formula-automated, comprehensively designed, and properly formated for p
 
 - <b>Windows 11</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project Overview:</h2>
 
 <p align="center">
-Launch program in the utility: <br/>
-<img src="https://i.imgur.com/XHYVdq8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Homes selected for project: <br/>
+<img src="https://i.imgur.com/wPoBHkq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/idC8tjY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gWAogxx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter speed limit:  <br/>
