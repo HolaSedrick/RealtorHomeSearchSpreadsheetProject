@@ -19,9 +19,10 @@ A fully formula-automated, comprehensively designed, and properly formated for p
 
 <p align="center">
 Homes selected for project: <br/>
+<img src="https://i.imgur.com/gWAogxx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/wPoBHkq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/idC8tjY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/gWAogxx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 Enter speed limit:  <br/>
