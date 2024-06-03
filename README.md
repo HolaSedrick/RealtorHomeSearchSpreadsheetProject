@@ -1,5 +1,5 @@
 # Realtor Home Search Spreadsheet Project
-<h1>Microsoft Excel - Realtor Home Search Spreadsheet Project</h1>
+<h2>Microsoft Excel - Realtor Home Search Spreadsheet Project</h2>
 
 <h2>Description</h2>
 A Python speeding ticket program that calculates speeding tickets for the fictional Podunk Police Department.
