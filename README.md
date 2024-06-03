@@ -19,7 +19,7 @@ A fully formula-automated, comprehensively designed, and properly formated for p
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/4D2sx37.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4D2sx37.png" height="80%" width="80%" alt="RealtorSpreadsheetHomePage"/>
 
 <!--
  ```diff
