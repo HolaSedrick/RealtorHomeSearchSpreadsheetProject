@@ -21,25 +21,6 @@ A fully formula-automated, comprehensively designed, and properly formated for p
 <br/>
 <img src="https://i.imgur.com/4D2sx37.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
-<br />
-<br />
-:  <br/>
-<img src="https://i.imgur.com/y93jNDi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter clocked speed: <br/>
-<img src="https://i.imgur.com/HY7Yq1p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-(Boolean) Determine if vehicle was in construction zone:  <br/>
-<img src="https://i.imgur.com/cHKwEg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Results are displayed:  <br/>
-<img src="https://i.imgur.com/oWBy8xE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 <!--
  ```diff
 - text in red
